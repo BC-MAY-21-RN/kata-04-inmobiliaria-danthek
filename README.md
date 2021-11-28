@@ -1,4 +1,4 @@
-## CODE CLIMATE TEST: &nbsp &nbsp <a href="https://codeclimate.com/github/BC-MAY-21-RN/kata-04-inmobiliaria-danthek/maintainability"><img src="https://api.codeclimate.com/v1/badges/66fd5ff6802ee095094c/maintainability" /></a>
+## CODE CLIMATE TEST:&nbsp; &nbsp; <a href="https://codeclimate.com/github/BC-MAY-21-RN/kata-04-inmobiliaria-danthek/maintainability"><img src="https://api.codeclimate.com/v1/badges/66fd5ff6802ee095094c/maintainability" /></a>
 
 ![BrightCoders Logo](img/logo-bc.png)
 
