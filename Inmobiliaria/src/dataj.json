@@ -1,0 +1,37 @@
+[
+    {
+        "name":"The Willows",
+        "direction":"3517 W. Gray St. Utica",
+        "beds":"3",
+        "baths":"2",
+        "sqfeets":"230",
+        "price":"440",
+        "housePic":"../Inmobiliaria/src/imgs/house-aubrey.jpg"
+    },
+    {
+        "name":"Quintana Roo",
+        "direction":"253 Fco. I. Madero Cancún",
+        "beds":"4",
+        "baths":"3",
+        "sqfeets":"755",
+        "price":"975",
+        "housePic":"../Inmobiliaria/src/imgs/beach-house.jpg"
+    },
+    {
+        "name":"Cuernavaca",
+        "direction":"2864 Diaz Mirón Morelos",
+        "beds":"5",
+        "baths":"2",
+        "sqfeets":"489",
+        "price":"832",
+        "housePic":"../Inmobiliaria/src/imgs/cabin.jpg",
+    },{
+        "name":"Guanajuato",
+        "direction":"1438 Lapis Lazulli Gto.",
+        "beds":"4",
+        "baths":"3",
+        "sqfeets":"389",
+        "price":"1979",
+        "housePic":"../Inmobiliaria/src/imgs/mexican-house.jpg"
+    }
+]
